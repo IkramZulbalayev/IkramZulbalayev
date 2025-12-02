@@ -25,7 +25,7 @@ Passionate about learning and building projects in web and software development.
 
 ## 💬 Ask Me About
 - Projects I’ve created using C# and web technologies
-- Projects in JavaScript, HTML, CSS, PHP, MySQL
+- Projects in JavaScript, HTML, CSS, PHP, C#(ASP.NET), MySQL
 - General software engineering topics
 
 ---
